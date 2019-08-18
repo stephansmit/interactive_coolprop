@@ -13,7 +13,7 @@ pip3 install dash==0.41.0 plotly==3.7.1 ipywidgets==7.0.0 CoolProp
 Or use Singularity, see below.
 
 ## Use
-The dashboard is hosted on [localhost:8050](https://localhost:8050)
+The dashboard is hosted on [localhost:8050](http://localhost:8050/)
 
 To run local 
 ~~~~
